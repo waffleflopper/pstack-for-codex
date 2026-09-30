@@ -9,11 +9,11 @@ Use `$poteto-mode` for a substantial engineering task. It selects a playbook, re
 This public repository is a Codex marketplace. Install it directly from GitHub:
 
 ```bash
-codex plugin marketplace add Aqua-123/pstack-for-codex
+codex plugin marketplace add waffleflopper/pstack-for-codex
 codex plugin add pstack-for-codex@pstack-for-codex-local
 ```
 
-For a local checkout, replace `Aqua-123/pstack-for-codex` with its absolute path. Confirm the installed plugin:
+For a local checkout, replace `waffleflopper/pstack-for-codex` with its absolute path. Confirm the installed plugin:
 
 ```bash
 codex plugin list --json
